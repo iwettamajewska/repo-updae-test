@@ -1,6 +1,6 @@
 import "./App.css";
-import FirstExample from "./comonents/FirstExample";
-import SecondExample from "./comonents/SecondExample";
+import FirstExample from "./components/FirstExample";
+import SecondExample from "./components/SecondExample";
 
 function App() {
   return (
